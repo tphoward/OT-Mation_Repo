@@ -1,1 +1,2 @@
-# OT-Mation_Repo
+# Howard-Group-Newcastle
+Howard Group at Newcastle University
