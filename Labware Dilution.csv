@@ -1,5 +1,0 @@
-Name,Labware,Slot,Working Volume,Source,Mixing,Final
-reagent_rack,opentrons_24_aluminumblock_nest_1.5ml_snapcap,3,1500,Y,N,N
-mixing_rack,opentrons_96_aluminumblock_generic_pcr_strip_200ul,5,50,N,Y,Y
-tiprack50ul,opentrons_96_tiprack_300ul,2,0,N,N,N
-tiprack10ul,opentrons_96_tiprack_20ul,1,0,N,N,N
