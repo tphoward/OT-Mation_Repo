@@ -4,6 +4,8 @@ Howard Group at Newcastle University
 # OT-Mation
 OT-Mation is a Python script that reads through a series of csv files, filled out by the user, to generate Python scripts that can be uploaded into the OT-2 liquid handling robot companion application to automate laboratory experiments. We aim to make the OT-2 liquid handling robot more accessible by removing the pre-requisite of Python programming skills from OT-2 operation.
 
+Our preprint describing OT-Mation can be found on bioRxiv: https://doi.org/10.1101/2025.01.20.633898
+
 ## Getting Set Up
 Because `OT-Mation` is a Python script it is easy to install and requires automates a majority of the OT-2 setup for the user. There are a couple of dependencies for `OT-Mation`, these are freely available and listed under **Prerequisites**.
 
