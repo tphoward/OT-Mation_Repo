@@ -7,7 +7,7 @@ OT-Mation is a Python script that reads through a series of csv files, filled ou
 Our preprint describing OT-Mation can be found on bioRxiv: https://doi.org/10.1101/2025.01.20.633898
 
 ## Getting Set Up
-Because `OT-Mation` is a Python script it is easy to install and requires automates a majority of the OT-2 setup for the user. There are a couple of dependencies for `OT-Mation`, these are freely available and listed under **Prerequisites**.
+Because `OT-Mation` is a Python script it is easy to install and automates a majority of the OT-2 setup for the user. There are a couple of dependencies for `OT-Mation`, these are freely available and listed under **Prerequisites**.
 
 ### Prerequisites
 There are two packages, as well as Python itself, that `OT-Mation` relies on in order to operate correctly:
