@@ -12,8 +12,8 @@ Because `OT-Mation` is a Python script it is easy to install and automates a maj
 ### Prerequisites
 There are two packages, as well as Python itself, that `OT-Mation` relies on in order to operate correctly:
 - Python 3.9
-  - Opentrons 3.1
-  - Pandas 0.25.0
+  - Tested with Opentrons 3.1
+  - Tested with Pandas 0.25.0
 
 Python 3.7, and more up to date versions can be dowloaded and installed from the [Python](https://www.python.org/) website. 
 Navigate to the downloads section, selecting your version, and operating system. The wizard will guide you the rest of the way.
