@@ -15,7 +15,7 @@ There are two packages, as well as Python itself, that `OT-Mation` relies on in 
   - Tested with Opentrons 3.1
   - Tested with Pandas 0.25.0
 
-OT-Mation has been tested and succesfully used on both Windows and MacOS machines.
+OT-Mation has been tested and successfully used on both Windows and MacOS machines.
 
 Python 3.7, and more up to date versions can be dowloaded and installed from the [Python](https://www.python.org/) website. 
 Navigate to the downloads section, selecting your version, and operating system. The wizard will guide you the rest of the way.
