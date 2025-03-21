@@ -1,0 +1,7 @@
+Name,Labware,Slot,Working Volume,Source,Mixing,Final
+reagent_rack,opentrons_24_aluminumblock_nest_1.5ml_snapcap,1,1000,Y,N,N
+sample_rack,corning_384_wellplate_112ul_flat,2,50,N,N,Y
+tiprack50ul,opentrons_96_tiprack_300ul,4,0,N,N,N
+tiprack10ul,opentrons_96_tiprack_20ul,5,0,N,N,N
+tiprack10ul2,opentrons_96_tiprack_20ul,6,0,N,N,N
+trash,agilent_1_reservoir_290ml,10,0,N,N,N

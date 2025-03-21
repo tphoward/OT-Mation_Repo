@@ -1,0 +1,28 @@
+Component,Sample,Well Location,Volume,Concentration,Target Volume,Speed,Transfer Volume,Percent,Mass per ul,Diluent,Delute
+DTT 60,Sample 0,"reagent_rack.wells(""A1"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A1"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A1"")",500,100,15,150,,N,N,N,N
+DTT 30,Sample 0,"reagent_rack.wells(""A2"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A2"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A2"")",500,100,15,150,,N,N,N,N
+DTT 0,Sample 0,"reagent_rack.wells(""A3"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A3"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A3"")",500,100,15,150,,N,N,N,N
+K 1400,Sample 0,"reagent_rack.wells(""A4"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A4"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A4"")",500,100,15,150,,N,N,N,N
+K 710,Sample 0,"reagent_rack.wells(""A5"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A5"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A5"")",500,100,15,150,,N,N,N,N
+K 20,Sample 0,"reagent_rack.wells(""A6"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A6"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A6"")",500,100,15,150,,N,N,N,N
+Mg 60,Sample 0,"reagent_rack.wells(""B1"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""B1"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""B1"")",500,100,15,150,,N,N,N,N
+Mg 30,Sample 0,"reagent_rack.wells(""B2"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""B2"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""B2"")",500,100,15,150,,N,N,N,N
+Mg 0,Sample 0,"reagent_rack.wells(""B3"")",500,100,15,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""B3"")",500,100,15,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""B3"")",500,100,15,150,,N,N,N,N
