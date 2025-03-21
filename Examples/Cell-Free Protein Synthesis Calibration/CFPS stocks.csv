@@ -1,0 +1,14 @@
+Component,Sample,Well Location,Volume,Concentration,Target Volume,Speed,Transfer Volume,Percent,Mass per ul,Diluent,Delute
+DTT,Sample 0,"reagent_rack.wells(""A1"")",1000,100,50,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A1"")",1000,100,50,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A1"")",1000,100,50,150,,N,N,N,N
+K,Sample 0,"reagent_rack.wells(""A2"")",1000,3000,50,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A2"")",1000,3000,50,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A2"")",1000,3000,50,150,,N,N,N,N
+Mg,Sample 0,"reagent_rack.wells(""A3"")",1000,100,50,150,,N,N,N,N
+,Sample 1,"reagent_rack.wells(""A3"")",1000,100,50,150,,N,N,N,N
+,Sample 2,"reagent_rack.wells(""A3"")",1000,100,50,150,,N,N,N,N
+,Sample 3,"reagent_rack.wells(""A3"")",1000,100,50,150,,N,N,N,N
+Water,Sample 1,"reagent_rack.wells(""A4"")",1000,100,50,150,,N,N,Y,N
+,Sample 2,"reagent_rack.wells(""A4"")",1000,100,50,150,,N,N,Y,N
+,Sample 3,"reagent_rack.wells(""A4"")",1000,100,50,150,,N,N,Y,N
